@@ -5,7 +5,7 @@ Nhóm 5.
 * Bài tập sẽ được nộp theo nhóm.
 * Nộp file PDF.
 ## 1. Clone repository về máy
-Các bạn cần phải tải git về. Ở đây mình dùng Powershell của Windows 11.
+Các bạn cần phải tải git về trước. Ở đây mình dùng Powershell của Windows 11.
 
 ![alt text](https://user-images.githubusercontent.com/108073174/226109426-ad46c38c-a555-4246-be64-aa8f0392d0e6.png)
 ![alt text](https://user-images.githubusercontent.com/108073174/226109550-1a4a1777-20e7-4c44-8446-a113561b9e97.png)
