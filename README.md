@@ -1,5 +1,5 @@
 # CS112
-Nhóm 5.
+Nhóm 5. Phân tích độ phức tạp của thuật toán không đệ qui.
 # Hướng dẫn nộp bài tập về nhà
 * Deadline: 11:59PM, ngày 23/3 (thứ 5).
 * Bài tập sẽ được nộp theo nhóm.
