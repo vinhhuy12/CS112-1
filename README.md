@@ -10,7 +10,7 @@ Các bạn cần phải tải git về trước. Ở đây mình dùng Powershel
 ![alt text](https://user-images.githubusercontent.com/108073174/226109426-ad46c38c-a555-4246-be64-aa8f0392d0e6.png)
 ![alt text](https://user-images.githubusercontent.com/108073174/226109550-1a4a1777-20e7-4c44-8446-a113561b9e97.png)
 
-Tiếp theo, cd đến "CS112". Trong folder này sẽ chưa file ".git".
+Tiếp theo, cd đến "CS112". Trong folder này sẽ chứa file ".git".
 
 ![alt text](https://user-images.githubusercontent.com/108073174/226111384-ee4ba7b0-57a8-45f3-96f7-30190f9ce098.png)
 
