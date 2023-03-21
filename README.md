@@ -4,6 +4,8 @@ Nhóm 5. Phân tích độ phức tạp của thuật toán không đệ qui.
 * Deadline: 11:59PM, ngày 23/3 (thứ 5).
 * Bài tập sẽ được nộp theo nhóm.
 * Nộp file PDF.
+### Mình đã invite các nhóm có link github làm collaborator để các bạn nộp bài.
+### Hiện tại nhóm 6, 11, 15 vẫn chưa có link github nên mình không invite làm collaborator được.
 ## 1. Clone repository về máy
 Các bạn cần phải tải git về trước.
 
