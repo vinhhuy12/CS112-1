@@ -5,7 +5,6 @@ Nhóm 5. Phân tích độ phức tạp của thuật toán không đệ qui.
 * Bài tập sẽ được nộp theo nhóm.
 * Nộp file PDF.
 ### Mình đã invite các nhóm có link github làm collaborator để các bạn nộp bài.
-### Hiện tại nhóm 11 vẫn chưa có link github nên mình không invite làm collaborator được.
 ## 1. Clone repository về máy
 Các bạn cần phải tải git về trước.
 
